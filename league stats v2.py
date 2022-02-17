@@ -18,7 +18,7 @@ last_match = my_matches['matches'][0]
 #print(last_match)
 match_detail = watcher.match.by_id(my_region, last_match['gameId'])
 #print(match_detail['teams'])
-
+#test
 """ participants = []
 for row in match_detail['participants']:
     participants_row = {}
